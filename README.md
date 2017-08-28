@@ -6,6 +6,8 @@
 
 <span>Plugins:(<a target="_blank" href="https://github.com/FriendsOfCake">Friendsofcake</a>) Crud - CrudView - BootstrapUI - Search</span>
 
+*Update 20170814-18:22*
+<span>Database > persiscal_moodle.sql</span>
 =======
 # Persiscal-ABM
 CakePHP ABM test
